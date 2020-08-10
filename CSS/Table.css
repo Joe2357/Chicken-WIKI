@@ -1,0 +1,42 @@
+* { margin : 0px; }
+body {
+	font-family : '맑은 고딕', serif;
+	font-size : 15px;
+	width : 98%;
+}
+img { border : 0; }
+.chicken {
+	width: 400px;
+	height: 400px;
+	border: 0;
+}
+#aside {
+	width : 150px;
+	float : left;
+	font-size : 13px;
+}
+#section {
+	text-align: center;
+	overflow : hidden;
+	border-left : 1px solid black;
+	border-bottom : 1px solid black;
+	padding : 10px;
+}
+#footer { overflow : hidden; }
+a { text-decoration : none; }
+a:link:active { text-decoration : underline; }
+.info_header {
+	background-color : #820024;
+	color : #ffffff;
+}
+.font_small { font-size : 25px; font-family : '맑은 고딕', '고딕', Arial; }
+.font_big { font-size : 50px; font-family : '맑은 고딕', '고딕', Arial; }
+table { border : 1px solid black; }
+footer {
+	text-align : left;
+	font-size : 11px;
+	margin : 10px 10px 20px 200px;
+}
+td {
+	color: purple;
+}

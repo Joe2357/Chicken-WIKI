@@ -29,3 +29,10 @@
   ![PPT 4](CWImg/ppt_4.png)
   ![PPT 5](CWImg/ppt_5.png)
   ![PPT 6](CWImg/ppt_6.png)
+
+## 제작자
+
+- 정재원
+- 정규원
+- 백민우
+- 차민준
